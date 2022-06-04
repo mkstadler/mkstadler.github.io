@@ -13,7 +13,7 @@ Welcome!
 ======
 I am a fourth-year PhD student in the [Robust Robotics Group](https://groups.csail.mit.edu/rrg/) at [MIT CSAIL](https://www.csail.mit.edu/), advised by Prof. Nicholas Roy.
 
-My research develops uncertainty-aware models and planners which use implicit and explicit environmental structure to improve planning efficiency and quality in structured and/or unknown environments. In my current work, I am developing collaborative multiagent planning algorithms which explicitly consider the team costs and benefits of taking sensing actions in stochastic environments when an agent has access to stale environmental data.
+My research develops uncertainty-aware models and planners which use implicit and explicit environmental structure to improve robot planning efficiency and quality in structured and/or unknown environments. In my current work, I am developing collaborative multiagent planning algorithms which explicitly consider the team costs and benefits of taking sensing actions in stochastic environments when an agent has access to stale environmental data.
 
  In the past, my collaborators and I used geometric and explicit object-level information to learned sampling distributions for sampling-based motion planners which enabled efficient planning at longer horizons in partially known environments. I also proposed a hierarchical planning representation for multi-query robot navigation which used previous planning experience to coarsely capture implicit environmental structure and prune regions of the environment which were unlikely to lead to low cost solutions for hierarchical, multi-query robot navigation.
 
@@ -24,10 +24,12 @@ Publications
 {% endif %}
 
 Conference Papers:
+M. Stadler, K. Liu, N. Roy. "Online High-Level Model Estimation for Efficient Hierarchical Robot Navigation." IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. [PDF](http://mkstadler.github.io/files/stadler_iros21.pdf)
+
+K. Liu*, M. Stadler*, and N. Roy. "Learned Sampling Distributions for Efficient Planning in Hybrid Geometric and Object-Level Representations." International Conference on Robotics and Automation (ICRA), 2020. [PDF](http://mkstadler.github.io/files/liu_stadler_icra20.pdf) [Video](https://youtu.be/W2g_qZviRM0)
 
 Theses:
-
-
+M. Stadler, "Learned Functions for Perceptually Informed Robot Navigation." Master's thesis, 2020. [PDF](http://mkstadler.github.io/files/stadler_masters.pdf)
 
 
 <!-- My research is focused on enabling robots to navigate efficiently in structured, unknown environments which have large state spaces for planning, either due to their lengthscale or the presence of uncertainty in the environment. I am interested in incorporating environmental structure, like doors, hallways, and exit signs in office buildings, and roads, forests, bodies of water, and bridges in outdoor environments can provide cues which better enable agents to infer high-quality navigation strategies.
