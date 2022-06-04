@@ -8,7 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+Welcome!
+======
+I am a fourth-year PhD student in the [Robust Robotics Group](https://groups.csail.mit.edu/rrg/) at [MIT CSAIL](https://www.csail.mit.edu/), advised by Prof. Nicholas Roy.
+
+My research develops uncertainty-aware models and planners which use implicit and explicit environmental structure to improve planning efficiency and quality in structured and/or unknown environments. In my current work, I am developing collaborative multiagent planning algorithms which explicitly consider the team costs and benefits of taking sensing actions in stochastic environments when an agent has access to stale environmental data.
+
+ In the past, my collaborators and used geometric and explicit object-level information to learned sampling distributions for sampling-based motion planners which enabled efficient planning at longer horizons in partially known environments. I also proposed a hierarchical planning representation for multi-query robot navigation which used previous planning experience to coarsely capture implicit environmental structure and prune regions of the environment which were unlikely to lead to low cost solutions for hierarchical, multi-query robot navigation.
+
+Publications
+======
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+
+
+
+<!-- My research is focused on enabling robots to navigate efficiently in structured, unknown environments which have large state spaces for planning, either due to their lengthscale or the presence of uncertainty in the environment. I am interested in incorporating environmental structure, like doors, hallways, and exit signs in office buildings, and roads, forests, bodies of water, and bridges in outdoor environments can provide cues which better enable agents to infer high-quality navigation strategies.
+ -->
+
+<!-- his is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -48,3 +69,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
