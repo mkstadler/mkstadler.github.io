@@ -15,13 +15,17 @@ I am a fourth-year PhD student in the [Robust Robotics Group](https://groups.csa
 
 My research develops uncertainty-aware models and planners which use implicit and explicit environmental structure to improve planning efficiency and quality in structured and/or unknown environments. In my current work, I am developing collaborative multiagent planning algorithms which explicitly consider the team costs and benefits of taking sensing actions in stochastic environments when an agent has access to stale environmental data.
 
- In the past, my collaborators and used geometric and explicit object-level information to learned sampling distributions for sampling-based motion planners which enabled efficient planning at longer horizons in partially known environments. I also proposed a hierarchical planning representation for multi-query robot navigation which used previous planning experience to coarsely capture implicit environmental structure and prune regions of the environment which were unlikely to lead to low cost solutions for hierarchical, multi-query robot navigation.
+ In the past, my collaborators and I used geometric and explicit object-level information to learned sampling distributions for sampling-based motion planners which enabled efficient planning at longer horizons in partially known environments. I also proposed a hierarchical planning representation for multi-query robot navigation which used previous planning experience to coarsely capture implicit environmental structure and prune regions of the environment which were unlikely to lead to low cost solutions for hierarchical, multi-query robot navigation.
 
 Publications
 ======
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+
+Conference Papers:
+
+Theses:
 
 
 
