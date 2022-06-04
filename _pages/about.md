@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Martina Stadler"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
