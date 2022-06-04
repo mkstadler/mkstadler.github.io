@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Martina Stadler"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,11 +21,13 @@ Publications
 {% endif %}
 
 Conference Papers:
+
 M. Stadler, K. Liu, N. Roy. "Online High-Level Model Estimation for Efficient Hierarchical Robot Navigation." IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. [PDF](http://mkstadler.github.io/files/stadler_iros21.pdf)
 
 K. Liu*, M. Stadler*, and N. Roy. "Learned Sampling Distributions for Efficient Planning in Hybrid Geometric and Object-Level Representations." International Conference on Robotics and Automation (ICRA), 2020. [PDF](http://mkstadler.github.io/files/liu_stadler_icra20.pdf) [Video](https://youtu.be/W2g_qZviRM0)
 
 Theses:
+
 M. Stadler, "Learned Functions for Perceptually Informed Robot Navigation." Master's thesis, 2020. [PDF](http://mkstadler.github.io/files/stadler_masters.pdf)
 
 
