@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student in the [Robust Robotics Group](https://groups.csail.mit.edu/rrg/) at [MIT CSAIL](https://www.csail.mit.edu/), advised by Prof. Nicholas Roy.
+I am a fifth-year PhD student in the [Robust Robotics Group](https://groups.csail.mit.edu/rrg/) at [MIT CSAIL](https://www.csail.mit.edu/), advised by Prof. Nicholas Roy.
 
 My research develops uncertainty-aware models and planners which use implicit and explicit environmental structure to improve robot planning efficiency and quality in structured and/or unknown environments. In my current work, I am developing collaborative multiagent planning algorithms which explicitly consider the team costs and benefits of taking sensing actions in stochastic environments when an agent has access to stale environmental data.
 
