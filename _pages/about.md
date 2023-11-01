@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD student in the [Robust Robotics Group](https://groups.csail.mit.edu/rrg/) at [MIT CSAIL](https://www.csail.mit.edu/), advised by Prof. Nicholas Roy.
+I am a sixth-year PhD student in the [Robust Robotics Group](https://groups.csail.mit.edu/rrg/) at [MIT CSAIL](https://www.csail.mit.edu/), advised by Prof. Nicholas Roy.
 
 My research develops uncertainty-aware models and planners which use implicit and explicit environmental structure to improve robot planning efficiency and quality in structured and/or unknown environments. In my current work, I am developing collaborative multiagent planning algorithms which explicitly consider the team costs and benefits of taking sensing actions in stochastic environments when an agent has access to stale environmental data.
 
@@ -22,6 +22,10 @@ Publications
 
 Conference Papers:
 ------
+M. Stadler, J. Banfi, N. Roy, "Approximating the Value of Collaborative Team Actions for Efficient Multiagent Navigation in Uncertain Graphs." International Conference on Planning and Scheduling (ICAPS), 2023. [\[PDF\]](http://mkstadler.github.io/files/stadler_icaps23.pdf)
+
+A. Messing\*, J. Banfi\*, M. Stadler, E. Stump, H. Ravichandar, N. Roy, S. Hutchinson, "A Sampling-Based Approach for Heterogeneous Coalition Scheduling with Temporal Uncertainty", Robotics: Science and Systems (RSS), 2023. [PDF\]](http://mkstadler.github.io/files/messing_banfi_rss23.pdf)
+
 M. Stadler, K. Liu, N. Roy. "Online High-Level Model Estimation for Efficient Hierarchical Robot Navigation." IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. [\[PDF\]](http://mkstadler.github.io/files/stadler_iros21.pdf)
 
 K. Liu\*, M. Stadler\*, and N. Roy. "Learned Sampling Distributions for Efficient Planning in Hybrid Geometric and Object-Level Representations." International Conference on Robotics and Automation (ICRA), 2020. [\[PDF\]](http://mkstadler.github.io/files/liu_stadler_icra20.pdf) [\[Video\]](https://youtu.be/W2g_qZviRM0)
