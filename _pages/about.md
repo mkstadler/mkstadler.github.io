@@ -22,6 +22,8 @@ Publications
 
 Conference Papers:
 ------
+Y. Veys, M. S. Kurtz, N. Roy, "Generating Sparse Probabilistic Graphs for Efficient Planning in Uncertain Environments." International Conference on Robotics and Automation (ICRA), 2024. [\[PDF\]](https://groups.csail.mit.edu/rrg/papers/veys_icra_24.pdf)
+
 M. Stadler, J. Banfi, N. Roy, "Approximating the Value of Collaborative Team Actions for Efficient Multiagent Navigation in Uncertain Graphs." International Conference on Planning and Scheduling (ICAPS), 2023. [\[PDF\]](http://mkstadler.github.io/files/stadler_icaps23.pdf)
 
 A. Messing\*, J. Banfi\*, M. Stadler, E. Stump, H. Ravichandar, N. Roy, S. Hutchinson, "A Sampling-Based Approach for Heterogeneous Coalition Scheduling with Temporal Uncertainty", Robotics: Science and Systems (RSS), 2023. [PDF\]](http://mkstadler.github.io/files/messing_banfi_rss23.pdf)
@@ -29,6 +31,10 @@ A. Messing\*, J. Banfi\*, M. Stadler, E. Stump, H. Ravichandar, N. Roy, S. Hutch
 M. Stadler, K. Liu, N. Roy. "Online High-Level Model Estimation for Efficient Hierarchical Robot Navigation." IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. [\[PDF\]](http://mkstadler.github.io/files/stadler_iros21.pdf)
 
 K. Liu\*, M. Stadler\*, and N. Roy. "Learned Sampling Distributions for Efficient Planning in Hybrid Geometric and Object-Level Representations." International Conference on Robotics and Automation (ICRA), 2020. [\[PDF\]](http://mkstadler.github.io/files/liu_stadler_icra20.pdf) [\[Video\]](https://youtu.be/W2g_qZviRM0)
+
+Workshop Papers:
+------
+M. S. Kurtz\*, S. Prentice\*, Y. Veys, L. Quang, C. Nieto-Granda, M. Novitzky, E. Stump, N. Roy, "Real-World Deployment of a Hierarchical Uncertainty-Aware Collaborative Multiagent Planning System." ICRA Workshop on Field Robotics, 2024. [\[PDF\]](https://groups.csail.mit.edu/rrg/papers/kurtz_prentice_fricra24.pdf)
 
 Theses:
 ------
