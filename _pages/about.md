@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a sixth-year PhD student in the [Robust Robotics Group](https://groups.csail.mit.edu/rrg/) at [MIT CSAIL](https://www.csail.mit.edu/), advised by Prof. Nicholas Roy.
+I am a robotics researcher in the [Robust Robotics Group](https://groups.csail.mit.edu/rrg/) at [MIT CSAIL](https://www.csail.mit.edu/), advised by Prof. Nicholas Roy.
 
-My research develops uncertainty-aware models and planners which use implicit and explicit environmental structure to improve robot planning efficiency and quality in structured and/or unknown environments. In my current work, I am developing collaborative multiagent planning algorithms which explicitly consider the team costs and benefits of taking sensing actions in stochastic environments when an agent has access to stale environmental data.
+My PhD research developed uncertainty-aware models and planners that used implicit and explicit environmental structure to improve robot planning efficiency and quality in large, structured and/or unknown outdoor environments. Most recently, I developed and deployed collaborative multiagent planning algorithms that explicitly considered the team costs and benefits of taking sensing actions in stochastic environments when an agent had access to stale environmental data.
 
- In the past, my collaborators and I used geometric and explicit object-level information to learned sampling distributions for sampling-based motion planners which enabled efficient planning at longer horizons in partially known environments. I also proposed a hierarchical planning representation for multi-query robot navigation which used previous planning experience to coarsely capture implicit environmental structure and prune regions of the environment which were unlikely to lead to low cost solutions for hierarchical, multi-query robot navigation.
+In the past, my collaborators and I used geometric and explicit object-level information to learned sampling distributions for sampling-based motion planners which enabled efficient planning at longer horizons in partially known environments. I also proposed a hierarchical planning representation for multi-query robot navigation which used previous planning experience to coarsely capture implicit environmental structure and prune regions of the environment which were unlikely to lead to low cost solutions for hierarchical, multi-query robot navigation.
 
 Publications
 ======
@@ -38,6 +38,8 @@ M. S. Kurtz\*, S. Prentice\*, Y. Veys, L. Quang, C. Nieto-Granda, M. Novitzky, E
 
 Theses:
 ------
+M. S, Kurtz, "Towards Efficient Planning for Navigation using Global Information in Large and Uncertain Environments." PhD thesis, 2024.
+
 M. Stadler, "Learned Functions for Perceptually Informed Robot Navigation." Master's thesis, 2020. [\[PDF\]](http://mkstadler.github.io/files/stadler_masters.pdf)
 
 
