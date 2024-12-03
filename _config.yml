@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Martina Stadler Kurtz"
   avatar           : "headshot_cropped.jpg"
-  bio              : "Robotics Researcher"
-  location         : # "Cambridge, MA"
-  employer         : "MIT CSAIL"
+  bio              : "Roboticist"
+  location         : Boston Area
+  employer         : #"MIT CSAIL"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=JNsnbeMAAAAJ&hl=en"
-  email            : "mstadler@mit.edu"
+  email            : "martinakstadler@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
