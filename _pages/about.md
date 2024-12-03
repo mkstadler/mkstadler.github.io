@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Martina Stadler Kurtz"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a robotics researcher in the [Robust Robotics Group](https://groups.csail.mit.edu/rrg/) at [MIT CSAIL](https://www.csail.mit.edu/), advised by Prof. Nicholas Roy.
+I'm a roboticist working on something new in the Boston area!
 
-My PhD research developed uncertainty-aware models and planners that used implicit and explicit environmental structure to improve robot planning efficiency and quality in large, structured and/or unknown outdoor environments. Most recently, I developed and deployed collaborative multiagent planning algorithms that explicitly considered the team costs and benefits of taking sensing actions in stochastic environments when an agent had access to stale environmental data.
+Previously, I was a PhD student (and, briefly, a robotics researcher) at the [Robust Robotics Group](https://groups.csail.mit.edu/rrg/) at [MIT CSAIL](https://www.csail.mit.edu/), advised by Prof. Nicholas Roy. My research developed uncertainty-aware models and planners that used implicit and explicit environmental structure to improve robot planning efficiency and quality in large, structured and/or unknown outdoor environments. Most recently, I developed and deployed collaborative multiagent planning algorithms that explicitly considered the team costs and benefits of taking sensing actions in stochastic environments when an agent had access to stale environmental data.
 
 In the past, my collaborators and I used geometric and explicit object-level information to learned sampling distributions for sampling-based motion planners which enabled efficient planning at longer horizons in partially known environments. I also proposed a hierarchical planning representation for multi-query robot navigation which used previous planning experience to coarsely capture implicit environmental structure and prune regions of the environment which were unlikely to lead to low cost solutions for hierarchical, multi-query robot navigation.
 
